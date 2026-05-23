@@ -12,31 +12,16 @@ Focused on high-performance interfaces, realtime systems, and interactive 3D app
 ## Tech Stack
 
 ### Frontend
-- React
-- TypeScript
-- Vue 3 / Nuxt 3
-- Redux / Pinia
-- SSR
-- PWA
+React, TypeScript, Vue 3 / Nuxt 3, Redux / Pinia, SSR, PWA
 
 ### 3D & Visualization
-- Three.js
-- WebGL
-- GLSL
-- A-Frame
-- Model-Viewer
+Three.js, WebGL, GLSL, A-Frame, Model-Viewer
 
 ### Backend
-- Node.js
-- Deno
-- WebSocket
-- Socket.io
-- REST API
+Node.js, Deno, WebSocket, Socket.io, REST API
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- SQLite
+PostgreSQL, MongoDB, SQLite
 ---
 
 ## Contact
