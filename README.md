@@ -1,16 +1,87 @@
-## Hi there 👋
+# Maksim Matveev
 
-<!--
-**mmA1r/mmA1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / Creative Tech Engineer
 
-Here are some ideas to get you started:
+`React` • `TypeScript` • `Three.js` • `WebGL` • `Realtime Systems`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Engineer with commercial experience in Fintech, MedTech, and Creative Tech.
+Focused on high-performance interfaces, realtime systems, and interactive 3D applications.
+
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Vue 3 / Nuxt 3
+- Redux / Pinia
+- SSR
+- PWA
+
+### 3D & Visualization
+- Three.js
+- WebGL
+- GLSL
+- A-Frame
+- Model-Viewer
+
+### Backend
+- Node.js
+- Deno
+- WebSocket
+- Socket.io
+- REST API
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQLite
+
+---
+
+## Featured Experience
+
+### MARMA Project — Roscongress Foundation
+Interactive 3D/AR systems for government and enterprise usage.
+
+- Graph navigation in 3D space
+- GLSL shader effects
+- AR visualization
+- Realtime rendering optimization
+
+### EXQ Finance
+Realtime financial visualization platform.
+
+- High-load dashboards
+- 5000+ realtime rows
+- Web Workers
+- Virtualization
+- WebSocket architecture
+
+### RebelSubmarine
+Complex 3D visualization platform.
+
+- Three.js architecture
+- LOD systems
+- PWA infrastructure
+- Realtime synchronization
+
+---
+
+## Engineering Interests
+
+- WebGL / GPU rendering
+- Realtime collaborative systems
+- Interactive interfaces
+- Visualization engines
+- Performance optimization
+- Creative development
+
+---
+
+## Contact
+
+- Email: aang.matveev@gmail.com
+- Telegram: @mmotAir
+- GitHub: https://github.com/mmotAir
